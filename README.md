@@ -23,3 +23,11 @@ Here are some ideas to get you started:
 
 ### 📫 Technical skills
 
+- Ruby
+- Ruby on Rails
+- Golang
+- Python
+- Grpc Gateway
+- Minio
+- Vue
+- Mysql
