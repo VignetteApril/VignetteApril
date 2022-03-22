@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - Pytorch
 - Golang
 - Grpc
+- Mysql
 
 ### 📫 Technical skills
 
