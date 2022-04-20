@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Golang
 - Grpc
 - Mysql
+- Math
 
 ### 📫 Technical skills
 
