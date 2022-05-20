@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - Grpc
 - Mysql
 - Math
+- Database
 
 ### 📫 Technical skills
 
