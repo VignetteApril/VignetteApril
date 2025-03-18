@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning
-
-- Pytorch
-- Golang
-- Grpc
-- Mysql
-- Math
-- Database
-
 ### 📫 Technical skills
 
 - Ruby
